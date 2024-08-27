@@ -8,6 +8,6 @@ In addition to the individual contributions from each probe, we compute the cros
 
 Documents:
 For GCspec:
-- ´Class_fisher_matrix_pessimistic.ipynb´ has the Fisher matrix difining the functions with Object-oriented programming.
-- 'Fisher_matrix_optimistic.ipynb' has the Fisher matrix for an optimistic setting for a w0, wa, gamma and non-flat model.
-- 'Fisher_matrix_pessimistic.ipynb' has the Fisher matrix for a pessimistic setting for a w0, wa, gamma and non-flat model.
+- `Class_fisher_matrix_pessimistic.ipynb` has the Fisher matrix difining the functions with Object-oriented programming.
+- `Fisher_matrix_optimistic.ipynb` has the Fisher matrix for an optimistic setting for a w0, wa, gamma and non-flat model.
+- `Fisher_matrix_pessimistic.ipynb` has the Fisher matrix for a pessimistic setting for a w0, wa, gamma and non-flat model.
